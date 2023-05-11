@@ -1,5 +1,5 @@
 import React from "react";
-import TypingEffect from "../Typetext";
+
 
 const Hero = () => {
   return (
@@ -16,7 +16,7 @@ const Hero = () => {
             Fast, flexible financing for
           </p>
           <span id="typed-text" className="text-[#00df9a] md:text-5xl sm:text-4xl text-xl font-bold py-4">
-          <TypingEffect />
+          
           </span>
         </div>
         <p className="md:text-2xl text-xl font-bold text-gray-500">
