@@ -1,4 +1,0 @@
-AFFILIATE
-
-web: www.persoonsbusjehuren.nl
-name: persoonsbusjehuren.nl
